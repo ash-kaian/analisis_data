@@ -8,5 +8,5 @@ cd proyek_analisis_data_dicoding
 
 ## Run Streamlit App
 ```
-streamlit run dashboar.py
+streamlit run dashboard.py
 ```
